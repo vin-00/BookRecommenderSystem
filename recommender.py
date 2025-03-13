@@ -28,7 +28,7 @@ book_list = pt.index.tolist()
 col1 , col2 = st.columns([3,1])
 with col1 :
     book_name = st.selectbox(
-        "Select a movie",
+        "Select a book",
         book_list
     )
 
