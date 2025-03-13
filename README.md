@@ -3,6 +3,10 @@
 ## Overview
 The **Book Recommender System** is a web-based application built using **Streamlit**. It provides personalized book recommendations based on collaborative filtering and also displays the most popular books on the home page.
 
+![image](https://github.com/user-attachments/assets/7b5aa93f-60e0-4e59-b8a3-ab008f8155b5)
+![image](https://github.com/user-attachments/assets/c40bbcc8-e888-4bcd-95ac-c677c71d88dd)
+
+
 ## Features
 - **Home Page:** Displays the most popular books based on overall ratings.
 - **Collaborative Filtering:** Recommends books based on user preferences using **cosine similarity**.
